@@ -1,0 +1,9 @@
+Place only files you have permission to distribute here, using these exact filenames:
+policy-driven-authorization.pdf
+human-guided-ai.pdf
+embedded-compliance.pdf
+predictive-reliability.pdf
+
+The repository does NOT initially contain PDF copies. Each page links to the original publisher PDF today.
+Run ../configure.ps1 after adding permitted PDFs to inject the correct absolute citation_pdf_url tags and download buttons.
+Do not rename, rewrite, reformat, or create an altered published PDF under a license prohibiting derivatives.
